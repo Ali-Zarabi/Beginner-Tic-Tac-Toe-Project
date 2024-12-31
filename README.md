@@ -2,7 +2,7 @@
 This is a Tic Tac Toe game I made for an introductory python course. It is played entirely in the console and is a great beginner project for anyone looking to build their python knowledge through application. 
 The project utilizes various beginner friendly concepts, developing one's ability to problem solve and make decisions through code. 
 
-**The code will include:**
+**The code includes:**
 
 • Variable declarations and assignments
 
