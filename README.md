@@ -1,6 +1,6 @@
 # Beginner-Tic-Tac-Toe-Project
-This is a Tic Tac Toe game I made for an introductory python course. It is played entirely in the console and is a great beginner project for anyone looking to build their python knowledge through application. 
-The project utilizes various beginner friendly concepts, developing one's ability to problem solve and make decisions through code. 
+This is a Tic Tac Toe game I created as an introductory python project. It is played entirely in the built-in python console and is a great beginner project for any individual attempting to ameliorate their python knowledge through application. 
+The project utilizes various beginner friendly concepts, expanding one's ability to make decisions and problem solve through code. 
 
 **The code includes:**
 
